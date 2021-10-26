@@ -1,4 +1,4 @@
-package com.yidao.demo;
+package com.yidao.algorithm;
 
 import java.util.Arrays;
 
